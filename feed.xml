@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Lukasz Balcerzak's Blog</title><link href="/" rel="alternate"></link><link href="/feed.xml" rel="self"></link><id>/</id><updated>2014-01-24T00:00:00+01:00</updated><entry><title>Entry 2</title><link href="/entry-2.html" rel="alternate"></link><updated>2014-01-24T00:00:00+01:00</updated><author><name>Lukasz Balcerzak</name></author><id>tag:,2014-01-24:entry-2.html</id><summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet.&lt;/p&gt;
+</summary></entry><entry><title>Entry 1</title><link href="/entry-1.html" rel="alternate"></link><updated>2014-01-23T00:00:00+01:00</updated><author><name>Lukasz Balcerzak</name></author><id>tag:,2014-01-23:entry-1.html</id><summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet.&lt;/p&gt;
+</summary></entry></feed>
